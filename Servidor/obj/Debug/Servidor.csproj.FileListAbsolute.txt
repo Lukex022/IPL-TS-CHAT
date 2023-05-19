@@ -1,0 +1,10 @@
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\bin\Debug\Servidor.exe.config
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\bin\Debug\Servidor.exe
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\bin\Debug\Servidor.pdb
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\bin\Debug\ProtocolSI.dll
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.exe
+E:\IPL\S2\TS\ProjetoFinalTS\Servidor\obj\Debug\Servidor.pdb
